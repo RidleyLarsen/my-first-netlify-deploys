@@ -3,6 +3,7 @@ title: I deployed to Netlify!
 layout: layouts/base.njk
 ---
 
+<h1>It works!</h1>
 
 <h2 id="tweet">Deploy and tweet to win a Nintendo Switch</h2>
 
